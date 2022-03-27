@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: da8e0fd5-70ce-ca5f-5997-cd6e4ed1e488
 resourcetype: Document
 title: week4.pdf
 uid: 90ea12b6-9664-c9e3-b4bf-3988a52e2c2a

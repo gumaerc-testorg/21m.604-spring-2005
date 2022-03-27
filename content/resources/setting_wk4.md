@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a12eb51c-c5bc-055b-3b2c-4b67bfd8fec1
 resourcetype: Document
 title: setting_wk4.pdf
 uid: c568f765-3588-337c-9c82-8f71f11a7dba
