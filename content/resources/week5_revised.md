@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains an assignment that includes writing a play and questions
   to ask for it.
-file: /media/courses/21m-604-playwriting-i-spring-2005/881f86a513cfaee7b9a9d489adc806df_week5_revised.pdf
+file: /courses/21m-604-playwriting-i-spring-2005/881f86a513cfaee7b9a9d489adc806df_week5_revised.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: week5_revised.pdf
 uid: 881f86a5-13cf-aee7-b9a9-d489adc806df
 ---
+This file contains an assignment that includes writing a play and questions to ask for it.
+

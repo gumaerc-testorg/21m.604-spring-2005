@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains an assignment that includes writing a short radio
   play.
-file: /media/courses/21m-604-playwriting-i-spring-2005/85bd694ba2ec847e7dbfadb6f924c81d_week7.pdf
+file: /courses/21m-604-playwriting-i-spring-2005/85bd694ba2ec847e7dbfadb6f924c81d_week7.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -14,3 +14,5 @@ resourcetype: Document
 title: week7.pdf
 uid: 85bd694b-a2ec-847e-7dbf-adb6f924c81d
 ---
+This file contains an assignment that includes writing a short radio play.
+

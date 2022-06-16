@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains course description, writing requirements, goals,
+  final projects, performances, reading, journals and the grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
