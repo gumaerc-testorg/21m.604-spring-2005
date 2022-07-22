@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains course description, writing requirements, goals,
+  final projects, performances, reading, journals and the grading criteria.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: fadc55d4-acb1-25c4-e559-67c1b88b3012
 ---

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains readings for the various topics of the weeks.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: a12eb51c-c5bc-055b-3b2c-4b67bfd8fec1
 ---
@@ -37,7 +41,7 @@ Ives, David. "Sure Thing." In _All in the Timing: Fourteen Plays_. New York, NY:
 2
 {{< tdclose >}}
 {{< tdopen >}}
-The Power of the Unspoken Word ([PDF 1]({{< baseurl >}}/resources/handout_wk2)) ([PDF 2]({{< baseurl >}}/resources/objects_wk2))
+The Power of the Unspoken Word ({{% resource_link c0e9383d-c333-aaef-ee9b-02740d74b169 "PDF 1" %}}) ({{% resource_link ebf0c60b-53f9-8900-b365-4af6140483f0 "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,7 +62,7 @@ Epstein, Leslie. _The Yellow Bus_. In _Boston Theatre Marathon of Ten-Minute Pla
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Actions Speak Louder than Words ([PDF]({{< baseurl >}}/resources/handout_wk3))
+Actions Speak Louder than Words ({{% resource_link 12c33563-bb7e-0030-71f7-27bb25ac6cad "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Hartigan, Patti. "One Man. Ten Plays. 100 Years." _Boston Globe Magazine_, April 3, 2005, 33-35 and 47-50.  
@@ -74,7 +78,7 @@ Rivera, Jose. "36 Assumptions about Writing Plays." _American Theatre_, February
 4
 {{< tdclose >}}
 {{< tdopen >}}
-The Challenge of Exposition and How to Create High- and Low-Context Dialogue ([PDF 1]({{< baseurl >}}/resources/context_wk4)) ([PDF 2]({{< baseurl >}}/resources/setting_wk4))
+The Challenge of Exposition and How to Create High- and Low-Context Dialogue ({{% resource_link 6187dc80-b549-fd52-da20-98b4e057e4b3 "PDF 1" %}}) ({{% resource_link c568f765-3588-337c-9c82-8f71f11a7dba "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Albee, Edward. _Who's Afraid of Virginia Woolf?_ New York, NY: Pocket Books, 1970. ISNB: 0451158717.  
@@ -104,7 +108,7 @@ Lahr, John. "After Angels: Tony Kushner's Promethean Itch." _The New Yorker_, Ja
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Thinking about Plot ([PDF]({{< baseurl >}}/resources/handout_wk6))
+Thinking about Plot ({{% resource_link a7d2dca9-d755-3590-3837-4a68032e5fba "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Witchel, Alex. "The Confessions of John Patrick Shanley." _The New York Times Magazine_, November 7, 2004, 31-35.  
@@ -150,7 +154,7 @@ Croyden, Margaret. "The African Connection." _American Theatre_, April 2005, 30-
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Composition: Adding Elements ([PDF 1]({{< baseurl >}}/resources/handout_wk9)) ([PDF 2]({{< baseurl >}}/resources/in_class_wk9))
+Composition: Adding Elements ({{% resource_link 33d7649c-70b3-b23b-6ff0-ae5d371e4467 "PDF 1" %}}) ({{% resource_link 42767524-c51b-562c-d2f0-7b28c813e62f "PDF 2" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Shewey, Don. "Cowboy Mouth." _American Theatre_, April 2004, 21-25 and 82-84.  
@@ -164,7 +168,7 @@ Ives, David. "Words, Words, Words." In _All in the Timing: Fourteen Plays_. New 
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Obstacle + Action = Great Theater ([PDF]({{< baseurl >}}/resources/handout_wk10))
+Obstacle + Action = Great Theater ({{% resource_link d65f6989-ef4a-39aa-2788-a193e2104004 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 Foreman, Ridchard. "The Gods Are Pounding My Head! (AKA Lumberjack Messiah)." _American Theatre_, April 2005, 35-45.

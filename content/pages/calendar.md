@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains topics and in class exercises for various weeks.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 7e54adc3-6131-b00f-0f3a-ee7d0a599b7b
 ---
