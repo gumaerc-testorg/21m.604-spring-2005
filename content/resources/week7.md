@@ -6,6 +6,7 @@ file: /courses/21m-604-playwriting-i-spring-2005/85bd694ba2ec847e7dbfadb6f924c81
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week7.pdf
 uid: 85bd694b-a2ec-847e-7dbf-adb6f924c81d
 ---
 This file contains an assignment that includes writing a short radio play.
-

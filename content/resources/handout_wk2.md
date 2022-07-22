@@ -5,6 +5,7 @@ file: /courses/21m-604-playwriting-i-spring-2005/c0e9383dc333aaefee9b02740d74b16
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: handout_wk2.pdf
 uid: c0e9383d-c333-aaef-ee9b-02740d74b169
 ---
 This file contains some questions on how to begin writing the play.
-

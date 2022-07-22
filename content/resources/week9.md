@@ -6,6 +6,7 @@ file: /courses/21m-604-playwriting-i-spring-2005/333f4608e81b431506a25a828c552f7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week9.pdf
 uid: 333f4608-e81b-4315-06a2-5a828c552f72
 ---
 This file contains a scenario that focuses to include miniature golf with someone in each couple.
-

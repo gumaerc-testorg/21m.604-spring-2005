@@ -5,6 +5,7 @@ file: /courses/21m-604-playwriting-i-spring-2005/144514bd78604e011b4e7e786a631b8
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dona_felicidad.pdf
 uid: 144514bd-7860-4e01-1b4e-7e786a631b89
 ---
 This resource describes the play based on the rosewater of dona felicidad.
-
