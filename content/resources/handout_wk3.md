@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains some notes.
 file: /courses/21m-604-playwriting-i-spring-2005/12c33563bb7e003071f727bb25ac6cad_handout_wk3.pdf
+file_size: 10902
 file_type: application/pdf
 learning_resource_types:
 - Readings
