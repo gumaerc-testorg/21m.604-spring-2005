@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains a scenario that focuses to include miniature golf
   with someone in each couple.
 file: /courses/21m-604-playwriting-i-spring-2005/333f4608e81b431506a25a828c552f72_week9.pdf
+file_size: 8487
 file_type: application/pdf
 learning_resource_types:
 - Assignments
