@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains an assignment that includes writing a play on a particular
   subject.
 file: /courses/21m-604-playwriting-i-spring-2005/f3d5ec0af61944e87d38657ae7f41c1d_week8.pdf
+file_size: 8863
 file_type: application/pdf
 learning_resource_types:
 - Assignments

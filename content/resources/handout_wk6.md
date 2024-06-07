@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains handout on thinking about plot.
 file: /courses/21m-604-playwriting-i-spring-2005/a7d2dca9d755359038374a68032e5fba_handout_wk6.pdf
+file_size: 8412
 file_type: application/pdf
 learning_resource_types:
 - Readings
