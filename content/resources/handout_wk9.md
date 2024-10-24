@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a handout that contains  some notes about the play.
-file: /courses/21m-604-playwriting-i-spring-2005/33d7649c70b3b23b6ff0ae5d371e4467_handout_wk9.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/33d7649c70b3b23b6ff0ae5d371e4467_handout_wk9.pdf
 file_size: 10418
 file_type: application/pdf
 learning_resource_types:

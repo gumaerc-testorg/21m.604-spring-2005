@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource describes the play Write Home About It written by Waseem
   Daher.
-file: /courses/21m-604-playwriting-i-spring-2005/7fbafbc197525999ab1d3fb0c72ec349_write_home.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/7fbafbc197525999ab1d3fb0c72ec349_write_home.pdf
 file_size: 133550
 file_type: application/pdf
 learning_resource_types:

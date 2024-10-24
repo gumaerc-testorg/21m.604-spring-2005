@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a handout on high and low context.
-file: /courses/21m-604-playwriting-i-spring-2005/6187dc80b549fd52da2098b4e057e4b3_context_wk4.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/6187dc80b549fd52da2098b4e057e4b3_context_wk4.pdf
 file_size: 12369
 file_type: application/pdf
 learning_resource_types:
