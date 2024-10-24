@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains importance of objects and assignments.
-file: /courses/21m-604-playwriting-i-spring-2005/c826478d24675f02f2b5f76b87c92e36_week3_revised.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/c826478d24675f02f2b5f76b87c92e36_week3_revised.pdf
 file_size: 11620
 file_type: application/pdf
 learning_resource_types:

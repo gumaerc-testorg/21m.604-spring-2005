@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains an assignment that includes writing a short radio
   play.
-file: /courses/21m-604-playwriting-i-spring-2005/85bd694ba2ec847e7dbfadb6f924c81d_week7.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/85bd694ba2ec847e7dbfadb6f924c81d_week7.pdf
 file_size: 8292
 file_type: application/pdf
 learning_resource_types:
