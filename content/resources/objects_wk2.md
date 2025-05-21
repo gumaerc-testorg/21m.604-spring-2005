@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains handout on objects.
-file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/ebf0c60b53f98900b3654af6140483f0_objects_wk2.pdf
+file: /courses/21m-604-playwriting-i-spring-2005/ebf0c60b53f98900b3654af6140483f0_objects_wk2.pdf
 file_size: 9549
 file_type: application/pdf
 learning_resource_types:

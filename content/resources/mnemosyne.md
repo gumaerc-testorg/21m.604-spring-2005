@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource describes the play related to mnemosyne.
-file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/aba97406e37dcdbae05c4978f91f4227_mnemosyne.pdf
+file: /courses/21m-604-playwriting-i-spring-2005/aba97406e37dcdbae05c4978f91f4227_mnemosyne.pdf
 file_size: 120533
 file_type: application/pdf
 learning_resource_types:
