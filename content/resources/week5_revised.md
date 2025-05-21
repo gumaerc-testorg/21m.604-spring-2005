@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains an assignment that includes writing a play and questions
   to ask for it.
-file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/881f86a513cfaee7b9a9d489adc806df_week5_revised.pdf
+file: /courses/21m-604-playwriting-i-spring-2005/881f86a513cfaee7b9a9d489adc806df_week5_revised.pdf
 file_size: 51206
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource describes the play based on an incident from the Mahabharata.
-file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/b1b2b022cc6fa183612a05350228cbb6_mahabharata.pdf
+file: /courses/21m-604-playwriting-i-spring-2005/b1b2b022cc6fa183612a05350228cbb6_mahabharata.pdf
 file_size: 98154
 file_type: application/pdf
 learning_resource_types:
