@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains some questions on how to begin writing the play.
-file: /courses/21m-604-playwriting-i-spring-2005/c0e9383dc333aaefee9b02740d74b169_handout_wk2.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/c0e9383dc333aaefee9b02740d74b169_handout_wk2.pdf
 file_size: 11314
 file_type: application/pdf
 learning_resource_types:
