@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains an assignment that includes writing a play/scene given
   what the charcaters will do and also gives in addition the required conditions for
   the play.
-file: /courses/21m-604-playwriting-i-spring-2005/3409144e8d5805db4554f6941282bc1a_week6.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/3409144e8d5805db4554f6941282bc1a_week6.pdf
 file_size: 10147
 file_type: application/pdf
 learning_resource_types:
