@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a handout that involves an exercise that entails the
   instructions & elements on creating a piece.
-file: /courses/21m-604-playwriting-i-spring-2005/42767524c51b562cd2f07b28c813e62f_in_class_wk9.pdf
+file: /ol-ocw-studio-app/courses/21m-604-playwriting-i-spring-2005/42767524c51b562cd2f07b28c813e62f_in_class_wk9.pdf
 file_size: 14969
 file_type: application/pdf
 learning_resource_types:
